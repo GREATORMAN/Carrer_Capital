@@ -10,7 +10,7 @@
 
 | Platform | Link |
 |---|---|
-| Website | [carrer-capital.vercel.app](carrer-capital.vercel.app) |
+| Website | [carrer-capital.vercel.app](https://carrer-capital.vercel.app/) |
 | App Demo Video | [Watch on Google Drive](https://drive.google.com/file/d/1K0yAMlOCErmsHVhYRQHcAtm_HsTcWS4C/view?usp=drivesdk) |
 
 ---
