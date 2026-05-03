@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">CareerCapital</string>
-    <string name="title_activity_main">CareerCapital</string>
-    <string name="package_name">com.visha.app</string>
-    <string name="custom_url_scheme">com.visha.app</string>
-</resources>
