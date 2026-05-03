@@ -1,177 +1,169 @@
-<div align="center">
-
 # 🎓 CareerCapital AI
 
-### *The GPS of the International Student Journey*
-
-**An AI-powered, end-to-end platform that guides Indian students from career discovery to post-arrival ROI — eliminating confusion, financial stress, and missed opportunities across every stage of studying abroad.**
+> AI-powered platform to help students plan education, careers, and finances smarter.
 
 
-</div>
 
+---
 
-## ❗ The Problem
+## 🌐 Live Demo
 
-Every year, **7.5 lakh+ Indian students** go abroad to study — and almost all of them navigate the journey alone, across fragmented tools, with little guidance on what matters most.
-
-| Pain Point | Reality |
+| Platform | Link |
 |---|---|
-| 🔍 No unified guidance | Students juggle 10+ websites for colleges, loans, visas, housing |
-| 💸 Financial blindspot | ₹30–80L loans taken without understanding EMI stress or ROI |
-| 📋 Missed deadlines | Scholarship and visa windows lost due to poor tracking |
-| 📉 Zero post-study tracking | Only 12% of students ever measure if studying abroad was worth it |
-
-> *Students don't need more information. They need a GPS — something that always shows the route and the next turn.*
+| Website | [https://career-rho-navy.vercel.app/](carrer-capital.vercel.app) |
+| App Demo Video | [Watch on Google Drive](https://drive.google.com/file/d/1K0yAMlOCErmsHVhYRQHcAtm_HsTcWS4C/view?usp=drivesdk) |
 
 ---
 
-## ✅ Our Solution
+## ❗ Problem
 
-**CareerCapital AI** is a GPS-style decision and execution platform — not just a planning tool. Every screen guides the user toward their next best step, from initial career discovery all the way to post-arrival ROI tracking and loan repayment.
+Students struggle with choosing the right university, understanding loans, and planning finances — leading to poor decisions and long-term financial stress. The journey is fragmented across 10+ websites with no unified guidance.
+
+---
+
+## ✅ Solution
+
+CareerCapital AI brings everything into one platform — AI-driven university recommendations, a Financial Stress Score, loan comparison, smart repayment strategies, visa tracking, and post-arrival ROI monitoring.
+
+---
+
+## ✨ Features
+
+- 🎯 **AI Career Discovery** — 7-step wizard to define goals, budget, and target countries
+- 🏆 **AI Decision Engine** — ranked college recommendations with match scores
+- 💡 **Financial Stress Score** — predicts loan burden before you commit
+- 🏦 **Loan Intelligence** — compare 10+ banks with live EMI calculator
+- 🔄 **Smart Repayment** — 4 strategies to save lakhs on interest
+- 🛂 **Visa & Risk Assessment** — country-specific checklists and risk flags
+- 📢 **Smart Alerts** — deadline reminders for scholarships, visas, and EMIs
+- 📈 **Progress Tracking** — post-arrival ROI, salary vs. EMI dashboard
+
+---
+
+## 🗺️ The 10-Stage Journey
 
 ```
-Career Discovery → Admission Planning → Loan Intelligence → Visa & Risk
-     → Mentorship → Smart Living → Progress Tracking & ROI
+01 Career Discovery → 02 Admission Planning → 03 Profile Enhancement
+04 Cost & ROI       → 05 Loan Intelligence  → 06 Smart Repayment
+07 Visa & Risk      → 08 Mentorship         → 09 Smart Living → 10 Progress Tracking
 ```
 
-**Core design principle:** All 10 journey stages are always open and accessible. No hard locks. Guided progression with smart highlights and context-aware CTAs on every screen.
-
----
-
-## ✨ Key Features
-
-### 🧠 AI Career Discovery Wizard
-A 7-step guided wizard that captures field of study, target country, budget, test scores, and career goals — and outputs a saved **Goal Profile** that every subsequent stage reads from automatically. Includes a **Readiness Snapshot** and **Scenario Comparator** (3 goal paths side-by-side).
-
-### 🏆 AI Decision Engine
-A structured report page — not just a chatbot — that generates ranked college recommendations using:
-- **QS World Rankings** for university ranking data
-- **Niche.com** for student reviews and grades
-- **LinkedIn Alumni Outcomes** for employment rates and average salaries
-- **Numbeo API** for live city cost-of-living estimates
-- **Official visa sources** (IRCC, UKVI, Home Affairs) for processing times
-
-### 💡 Financial Stress Score
-A proprietary composite index (0–100) that quantifies a student's financial risk *before* they take a loan:
-
-| Score | Band | Meaning |
-|---|---|---|
-| 0–39 | 🔴 High Stress | Loan burden too high — reconsider |
-| 40–69 | 🟡 Moderate | Manageable with financial discipline |
-| 70–100 | 🟢 Comfortable | Strong financial position |
-
-Factors: Loan-to-Salary Ratio (35%), Scholarship Coverage (25%), Country Economic Risk (20%), Repayment Runway (20%).
-
-### 🏦 Loan Intelligence (Stage 05)
-Live comparison of 10+ lenders — SBI, HDFC Credila, ICICI, MPOWER, Prodigy Finance and more — AI-ranked for the student's specific profile. Includes collateral filters, rate comparison, and a live EMI calculator with Stress Score feedback per plan.
-
-### 🔄 Smart Repayment Engine (Stage 06)
-Four interactive repayment strategies with live sliders — no submit button required:
-
-1. **13th Month Payment** — extra yearly payment reduces tenure and total interest
-2. **Early Principal Strategy** — pay 7th EMI equivalent in month 1, re-amortise immediately
-3. **Tenure Reduction Planner** — ₹5K/month extra can cut 15-year tenure to 8–9 years
-4. **Interest Awareness Engine** — shows why 90%+ of early EMIs go to interest, not principal
-
-### 🗺️ Visa & Risk Assessment (Stage 07)
-Auto-generated country-specific visa checklists from the student's goal profile. Live processing times from official government sources. Risk flagging based on profile gaps with mitigation suggestions.
-
-### 📢 Smart Alerts System
-9 alert types across push, email, and SMS — covering scholarship deadlines, application deadlines, EMI reminders, visa processing spikes, and new mentor availability. Never miss a critical window.
-
----
-
-## 🗺️ The 10-Stage Journey System
-
-| Stage | Name | Purpose |
-|---|---|---|
-| 01 | 🎯 Career Discovery | Define goals, country, course, and study timeline in under 10 minutes |
-| 02 | 📚 Admission Planning | Map profile against target programmes; build application plan |
-| 03 | ⭐ Profile Enhancement | Identify and close profile gaps — SOP, scores, recommendations |
-| 04 | 📊 Cost & ROI Planning | Model total cost, scholarship impact, and projected ROI |
-| 05 | 🏦 Loan Intelligence | Compare banks, understand options, and choose optimal plan |
-| 06 | 🔄 Smart Repayment | Build a repayment strategy using advanced EMI modelling |
-| 07 | 🛂 Visa & Risk Assessment | Track visa requirements, assess risk, and prepare documents |
-| 08 | 🤝 Mentorship Ecosystem | Connect with mentors, alumni, and counsellors |
-| 09 | 🏠 Smart Living Assistant | Plan accommodation, insurance, forex, and pre-departure logistics |
-| 10 | 📈 Progress Tracking | Monitor career outcomes, EMI repayment, and study-abroad ROI |
-
-> All 10 stages are always open and accessible — no gates, no forced linear flow.
-
----
-
-## 📱 Platform Access
-
-### 🖥️ Web Application
-Full-featured browser experience with a 260px persistent sidebar, all 10 stages accessible at all times, real-time calculators with live sliders, and a sticky next-step bar on every page. Fully responsive down to mobile viewports.
-
-**→ Live at:** [https://career-rho-navy.vercel.app/](https://career-rho-navy.vercel.app/)
-
-### 📱 Mobile App Prototype
-Touch-optimised companion app with push notifications for deadlines, offline goal profile access, AI chat assistant on-the-go, and EMI reminder + repayment tracker.
-
-**→ Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1K0yAMlOCErmsHVhYRQHcAtm_HsTcWS4C/view?usp=drivesdk)
+All 10 stages are always open — no hard locks, no forced order.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Frontend | React / Next.js |
-| Styling | Tailwind CSS |
-| AI Assistant | Claude Sonnet (Anthropic API) |
-| Deployment | Vercel |
-| External APIs | QS Rankings, Numbeo, Niche.com, LinkedIn Alumni Data, IRCC / UKVI / Home Affairs |
+- **Frontend:** React / Next.js
+- **Styling:** Tailwind CSS
+- **AI:** Claude Sonnet (Anthropic API)
+- **Deployment:** Vercel
 
 ---
 
-## 🎥 Live Demo & Video
+## 🚀 Getting Started
 
-| | Link |
-|---|---|
-| 🌐 **Website** | [https://career-rho-navy.vercel.app/](https://career-rho-navy.vercel.app/) |
-| 🎥 **App Demo Video** | [Watch on Google Drive](https://drive.google.com/file/d/1K0yAMlOCErmsHVhYRQHcAtm_HsTcWS4C/view?usp=drivesdk) |
+### Prerequisites
+
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (v18 or above)
+- [Git](https://git-scm.com/)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/careercapital-ai.git
+cd careercapital-ai
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Set Up Environment Variables
+
+Create a `.env.local` file in the root folder:
+
+```env
+NEXT_PUBLIC_ANTHROPIC_API_KEY=your_api_key_here
+```
+
+> Get your API key from [console.anthropic.com](https://console.anthropic.com/)
+
+### 4. Run the Development Server
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## ☁️ Deploy to Vercel
+
+### Option 1 — One-Click Deploy (Recommended)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/careercapital-ai)
+
+### Option 2 — Manual Deploy via Vercel CLI
+
+```bash
+# Install Vercel CLI
+npm install -g vercel
+
+# Deploy
+vercel
+```
+
+Follow the prompts. On first deploy, Vercel will ask you to link or create a project.
+
+### Option 3 — Deploy via Vercel Dashboard
+
+1. Go to [vercel.com](https://vercel.com) and sign in
+2. Click **"Add New Project"**
+3. Import your GitHub repository
+4. Add environment variables under **Settings → Environment Variables**:
+   ```
+   NEXT_PUBLIC_ANTHROPIC_API_KEY = your_api_key_here
+   ```
+5. Click **"Deploy"** — your site will be live in ~60 seconds
+
+---
+
+## 📖 How to Use
+
+**Step 1 — Start Career Discovery**
+Open the app and click **"Start Your Journey"**. The 7-step wizard will ask about your field of study, target countries, budget, and career goals. Takes under 10 minutes.
+
+**Step 2 — View AI Recommendations**
+Go to **AI Decision Engine** in the sidebar. You'll see ranked college picks with match scores, estimated costs, and alumni outcomes.
+
+**Step 3 — Check Your Financial Stress Score**
+Head to **Stage 04 — Cost & ROI Planning**. Enter your loan amount and expected salary to see your Financial Stress Score (0–100) and whether your plan is financially safe.
+
+**Step 4 — Compare Loan Options**
+Go to **Stage 05 — Loan Intelligence**. Browse and compare banks like SBI, HDFC Credila, MPOWER and others. The AI highlights the best options for your profile.
+
+**Step 5 — Plan Repayment**
+Visit **Stage 06 — Smart Repayment**. Use the interactive calculators to see how small extra payments can save lakhs and shorten your loan tenure by years.
+
+**Step 6 — Track Visa & Deadlines**
+Go to **Stage 07** for your country-specific visa checklist, and check **Alerts** to set deadline reminders for scholarships and applications.
+
+**Step 7 — Post-Arrival Tracking**
+Once you're abroad, use **Stage 10 — Progress Tracking** to log your salary, track EMI repayments, and see your study-abroad ROI in real time.
 
 ---
 
 ## 👥 Team
 
-<table>
-  <tr>
-    <td align="center"><b>Vishalsai BJ</b></td>
-    <td align="center"><b>D Varshini</b></td>
-  </tr>
-  <tr>
-    <td align="center">Co-founder 🚀</td>
-    <td align="center">Co-founder 🚀</td>
-  </tr>
-</table>
+**Team 🚀 — Vishalsai BJ & D Varshini**
+TenzorX 2026 National AI Hackathon 
 
-*Submission for the Poonawalla Fincorp Grand Finale — Detailed Prototype Round*
 
 ---
 
-## 📊 Impact
-
-CareerCapital AI simplifies what is currently a fragmented, stressful, and financially risky process for millions of Indian students every year.
-
-| Metric | Target |
-|---|---|
-| Profile Completion Rate | >65% of users reach 80%+ completeness |
-| Scholarship Applications | >2 per user on average |
-| AI Recommendation Acceptance | >55% follow the top recommendation |
-| Loan Strategy Engagement | >40% use 2 or more repayment strategies |
-| Stage Completion Rate | >70% of users reach Stage 07 |
-| 30-Day App Retention | >60% return within 30 days |
-
-> *"Be the Google Maps of the international student journey — always show the route, always show the next turn, never block the user."*
-
----
-
-<div align="center">
-
-**CareerCapital AI** · PRD v6.0 · Confidential  
-Team 🚀 Vishalsai BJ & D Varshini
-
-</div>
+This project is confidential and submitted as part of a competition. 
