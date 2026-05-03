@@ -6,27 +6,9 @@
 
 **An AI-powered, end-to-end platform that guides Indian students from career discovery to post-arrival ROI — eliminating confusion, financial stress, and missed opportunities across every stage of studying abroad.**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-career--rho--navy.vercel.app-00B89F?style=for-the-badge)](https://career-rho-navy.vercel.app/)
-[![Demo Video](https://img.shields.io/badge/🎥_App_Demo-Watch_on_Drive-F5A623?style=for-the-badge)](https://drive.google.com/file/d/1K0yAMlOCErmsHVhYRQHcAtm_HsTcWS4C/view?usp=drivesdk)
-[![Team](https://img.shields.io/badge/Team_🚀-Vishalsai_BJ_%26_D_Varshini-0F1923?style=for-the-badge)](#team)
 
 </div>
 
----
-
-## 📌 Table of Contents
-
-- [The Problem](#-the-problem)
-- [Our Solution](#-our-solution)
-- [Key Features](#-key-features)
-- [The 10-Stage Journey](#-the-10-stage-journey-system)
-- [Platform Access](#-platform-access)
-- [Tech Stack](#-tech-stack)
-- [Live Demo & Video](#-live-demo--video)
-- [Team](#-team)
-- [Impact](#-impact)
-
----
 
 ## ❗ The Problem
 
