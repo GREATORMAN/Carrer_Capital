@@ -11,8 +11,7 @@ income-based EMI predictions to guide students end-to-end.
 
 ## Live Demo
 - 🌐 Website:[website deployed link](https://career-rho-navy.vercel.app/)
-- 📱 App APK: 
-
+ 
 ## 🎥 Demo Video
 App demo video : https://drive.google.com/file/d/1K0yAMlOCErmsHVhYRQHcAtm_HsTcWS4C/view?usp=drivesdk
   
